@@ -86,3 +86,5 @@ lint/tmp/
 
 # Android Profiling
 *.hprof
+
+CurrencyConverter/app/src/main/res/values/secrets.xml
