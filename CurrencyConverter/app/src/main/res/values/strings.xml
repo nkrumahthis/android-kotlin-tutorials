@@ -34,4 +34,5 @@
         <item>KRW</item>
         <item>MYR</item>
     </string-array>
+    <string name="key"></string>
 </resources>
